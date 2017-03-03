@@ -1,4 +1,2 @@
-See:  
-https://github.com/zhaotoday/naming-guide  
-https://github.com/zhaotoday/howto-name-css  
-...
+- [设计变量表及命名规范](https://github.com/zhaotoday/naming-guide)
+- [样式类命名规范](https://github.com/zhaotoday/howto-name-css)
